@@ -39,8 +39,7 @@ I'm looking to collaborate on **Cloud Native Projects**, **FOSS Projects**
 ## 📱 Social Handles
 
 <a href="https://x.com/metamonk1001" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/metamonk1001-gold?style=flat-square&logo=x&logoColor=white&logoSize=auto&label=x.com&labelColor=black
-  " alt="X profile badge">
+  <img alt="X profile badge" src="https://img.shields.io/badge/metamonk1001-gold?style=flat-square&logo=x&logoColor=white&logoSize=auto&label=x.com&labelColor=black">
 </a>
 
 <!--
