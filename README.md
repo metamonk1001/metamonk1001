@@ -32,9 +32,10 @@ I'm looking to collaborate on **Cloud Native Projects**, **FOSS Projects**
 ...
 
 
-## 🤙Contact Me!
-Email: tinesh.metamonk1001@gmail.com
+## 🤙 Contact Me!
+**Email:** tinesh.metamonk1001@gmail.com
 
+## 📱 Social Handles 
 ![Static Badge](https://img.shields.io/badge/metamonk1001-gold?style=flat-square&logo=x&logoColor=white&logoSize=auto&label=x.com&labelColor=black&link=https%3A%2F%2Fx.com%2Fmetamonk1001)
 
 
