@@ -1,12 +1,19 @@
 # Hello world 👋. Welcome to the cyber loophole  🕶️ 
 
+#metamonk1001official
+
 ## Introduction
-My name is Tinesh, and I would be referred as 'Metamonk1001' in the Internet space 🌐.
+My name is Tinesh, and I would be referred as 'Metamonk1001' in the Internet space 🌐. This is my space to showcase my works to the context of computer science and programming. 
 
 So, the hats that I'm currently interested to wear
 - Full Stack Developer ⚒️
-- AI Engineer 
-- DevOps, LLMOps and Cloud
+- DevOps
+
+I'm Currently learning 📖:
+- AI Engineering 
+- LLMOps and Cloud
+- AI Automation
+- Data Analytics
 
 I build in silence; maybe my repository would reflect.
 
