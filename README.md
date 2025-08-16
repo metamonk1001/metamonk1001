@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello world 👋
+
+## Introduction
+My name is Tinesh; an optimist user who would also be referred as 'Metamonk1001'. 
+
 
 <!--
 **metamonk1001/metamonk1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
